@@ -1,0 +1,210 @@
+pedsnet-pm:
+  title: "Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations"
+  goals: "Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identiﬁed based on individual- and community-level characteristics, co-exposures, time, and space."
+  status: Pending
+  number: "AN:4446180"
+  pi_name: Brokamp C
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 4/1/21
+  end_date: 3/31/25
+  amount: 1129325
+  effort:
+    2021: 1.8
+    2022: 3.6
+    2023: 4.2
+    2024: 4.2
+commercial-proteins:
+  title: "Commercial Translation of Biomarker-based Platform for Personalized Forecasting of Rapid Lung Function Decline"
+  goals: "Develop a proteomic marker-informed algorithm that predicts lung function into a tool delivered to the cystic fibrosis care community."
+  status: Active
+  number: R61HL154105
+  pi_name: Ziady A, Szczesniak R
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 7/1/20
+  end_date: 6/30/23
+  amount: 1180501
+  effort:
+    2020: 0.9
+    2021: 0
+    2022: 0
+
+c4:
+  title: "Longitudinal Impact of Air Pollution on Mental Health and Neuroimaging Outcomes during Adolescence in the Cincinnati Combined Childhood Cohorts (C4)"
+  goals: "This project will merge two ongoing, prospective cohorts, the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS) and the Health Outcomes and Measures of the Environment (HOME) Study, to examine the role of air pollution on adverse mental health and neuroimaging outcomes and in early adolescence."
+  status: Active
+  number: R01ES031621
+  pi_name: Yolton K, Ryan P, Cecil K
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 3/3/21
+  end_date: 12/31/25
+  amount: 5319812
+  effort:
+    2021: 1.44
+    2022: 1.80
+    2023: 1.80
+    2024: 1.80
+    2025: 1.80
+degauss-r01:
+  title: "A Framework for Automated and Reproducible Geomarker Curation and Computation at Scale"
+  goals: "Create a framework for developing a standardized, free and open source library of reproducible and computable geomarkers that will enhance the efficiency and collaboration of biomedical researchers utilizing place-based data at scale."
+  status: Active
+  number: R01LM013222
+  pi_name: Brokamp C
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 8/1/20
+  end_date: 7/31/24
+  amount: 1351500
+  effort:
+    2020: 3.50
+    2021: 5.40
+    2022: 5.40
+    2023: 5.40
+echo-oif:
+  title: "Decentralized and Reproducible Geomarker Assessment for Multi-Site Studies"
+  goals: "Create a software tool to facilitate the exposure assessment of gridded spatiotemporal data based on residential addresses and date of birth without sharing or exposing protected health information."
+  status: Active
+  number: ECHO OIF
+  pi_name: Brokamp C
+  source: Duke University
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 9/1/19
+  end_date: 8/31/21
+  amount: 199393
+  effort:
+    2019: 2.7
+    2020: 2.7
+brunst-epigenetics:
+  title: "Epigenetics, Air Pollution, and Childhood Mental Health"
+  goals: "Use data from three longitudinal birth cohorts to examine the impact of air pollution on the epigenome and the onset of childhood anxiety and depression symptoms. DNA methylation biomarkers are investigated to advance our understanding of potential molecular pathways involved in air pollution neurotoxicity and/or anxiety and depression pathophysiology."
+  status: Active
+  number: R01ES031054
+  pi_name: Brunst K
+  source: NIH
+  ppp: University of Cincinnati
+  start_date: 7/1/20
+  end_date: 4/29/25
+  amount: 1499436
+  effort:
+    2020: 1.44
+    2021: 1.8
+    2022: 1.8
+    2023: 1.8
+    2024: 1.8
+cf-geomarker:
+  title: "Mapping environmental contributions to rapid lung disease progression in cystic fibrosis"
+  goals: "Leverage a rich CF registry, extant national and local environmental data sources and prospectively collected study data to accurately forecast the onset of rapid decline progression."
+  status: Active
+  number: R01HL141286
+  pi_name: Szczesniak R
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 1/18/19
+  end_date: 12/31/23
+  amount: 2286948
+  effort:
+    2019: 3.6
+    2020: 1.8
+    2021: 1.8
+    2022: 3.6
+    2023: 3.6
+emerge-iv:
+  title: "Polygenic Risk Scores for Healthier African American Families"
+  goals: "Ascertain and enroll 800 African American mothers with newborn babies along with available fathers and siblings and develop polygenic risk scores and incorporate them into genomic risk estimates for Asthma, Atopic Dermatitis, Obesity, Hypertension, Hypercholesterolemia, Premature Birth, and Breast Cancer. We will cope with the ethics of returning results and for selected situations intervene for mitigate risk."
+  status: Active
+  number: U01HG011172
+  pi_name: Harley J
+  source: NIH
+  ppp: Cincinnati Children's Hopsital Medical Center
+  start_date: 4/1/20
+  end_date: 3/31/25
+  amount: 6965522
+  effort:
+    2020: 0.46
+    2021: 0.6
+    2022: 0.6
+    2023: 0.6
+    2024: 0.6
+tes-r01:
+  title: "Epigenome-wide variations and socio-environmental exposures in African American asthmatic children"
+  goals: "Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children."
+  status: Pending
+  number: R01HG011411
+  pi_name: Mersha T
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 7/1/21
+  end_date: 6/30/26
+  amount: 3871139
+  effort:
+    2021: 1.2
+    2022: 1.2
+    2023: 1.2
+    2024: 1.2
+    2025: 1.2
+beck-riseup:
+  title: "Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System"
+  goals: "Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community."
+  status: Pending
+  number: ""
+  pi_name: Beck A
+  source: AHRQ
+  ppp: Cincinnati Children's Hopsital Medical Center
+  start_date: 11/1/21
+  end_date: 10/31/26
+  amount: 1995559
+  effort:
+    2021: 2.4
+    2022: 2.4
+    2023: 2.4
+    2024: 2.4
+    2025: 2.4
+odh-lead:
+  title: "Model Identifying Geographic Areas in Ohio for Blood Lead Testing"
+  goals: "Develop a predictive model to determine which children should be tested for potentially high blood lead during physician visits based on their residential location."
+  status: Completed
+  number: CSP907820
+  pi_name: Brokamp C
+  source: Ohio Department of Health
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 4/01/20
+  end_date: 9/30/20
+  amount:  ""
+ses-pred:
+  title: "Using machine learning to supplement electronic health record databases with individual socioeconomic status"
+  goals: Create a novel machine learning approach to use open city and auditor databases to predict individual level income and family socioeconomic status. Determine its ability to mitigate bias in electronic health research studies that rely on insurance status to capture individual-level SES.
+  status: Completed
+  number: "Processes and Methods Award"
+  pi_name: Brokamp C
+  source: "Center for Clinical & Translational Science & Training"
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 9/1/17
+  end_date: 6/30/19
+  amount: ""
+strauss:
+  title: Assessing Exposure to Air Pollution Across Time and Space
+  goals: Combine satellite-based measurements, land use characteristics, and meteorologic data to create a hybrid spatiotemporal model for ground level exposure to particulate matter using exact addresses and dates.
+  status: Completed
+  number: "Arnold W. Strauss Fellowship Award"
+  pi_name: Brokamp C
+  source: "Cincinnati Children's Research Foundation"
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 7/1/16
+  end_date: 6/30/17
+  amount: ""
+degauss-validate:
+  title: "Validating a Geocoding Approach for Multi-Site Studies"
+  goals: Compare geocoding accuracy and ability to correctly estimate environmental exposures and community-level characteristics using DeGAUSS with other common geocoding software. 
+  status: Completed
+  number: "Processes and Methods Award"
+  pi_name: Brokamp C
+  source: "Center for Clinical & Translational Science & Training"
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 1/24/17
+  end_date: 6/30/17
+  amount: ""
+  
+  
