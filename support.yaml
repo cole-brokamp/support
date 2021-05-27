@@ -1,6 +1,40 @@
+tes-r01:
+  title: "Epigenome-wide variations and socio-environmental exposures in African American asthmatic children"
+  goals: "Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children."
+  status: Pending
+  number: R01HG011411
+  pi_name: Mersha T
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 7/1/21
+  end_date: 6/30/26
+  amount: 3757452
+  effort:
+    2021: 0.0
+    2022: 0.0
+    2023: 1.2
+    2024: 1.2
+    2025: 1.2
+beck-riseup:
+  title: "Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System"
+  goals: "Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community."
+  status: Pending
+  number: ""
+  pi_name: Beck A
+  source: AHRQ
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 11/1/21
+  end_date: 10/31/26
+  amount: 1995559
+  effort:
+    2021: 2.4
+    2022: 2.4
+    2023: 1.8
+    2024: 1.5
+    2025: 1.2
 pedsnet-pm:
   title: "Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations"
-  goals: "Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identiﬁed based on individual- and community-level characteristics, co-exposures, time, and space."
+  goals: "Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identified based on individual- and community-level characteristics, co-exposures, time, and space."
   status: Pending
   number: "AN:4446180"
   pi_name: Brokamp C
@@ -22,14 +56,12 @@ commercial-proteins:
   pi_name: Ziady A, Szczesniak R
   source: NIH
   ppp: Cincinnati Children's Hospital Medical Center
-  start_date: 7/1/20
-  end_date: 6/30/23
-  amount: 1180501
+  start_date: 9/1/20
+  end_date: 6/30/22
+  amount: 788746
   effort:
-    2020: 0.9
+    2020: 0
     2021: 0
-    2022: 0
-
 c4:
   title: "Longitudinal Impact of Air Pollution on Mental Health and Neuroimaging Outcomes during Adolescence in the Cincinnati Combined Childhood Cohorts (C4)"
   goals: "This project will merge two ongoing, prospective cohorts, the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS) and the Health Outcomes and Measures of the Environment (HOME) Study, to examine the role of air pollution on adverse mental health and neuroimaging outcomes and in early adolescence."
@@ -42,7 +74,7 @@ c4:
   end_date: 12/31/25
   amount: 5319812
   effort:
-    2021: 1.44
+    2021: 1.10
     2022: 1.80
     2023: 1.80
     2024: 1.80
@@ -59,7 +91,7 @@ degauss-r01:
   end_date: 7/31/24
   amount: 1351500
   effort:
-    2020: 3.50
+    2020: 4.10
     2021: 5.40
     2022: 5.40
     2023: 5.40
@@ -76,7 +108,7 @@ echo-oif:
   amount: 199393
   effort:
     2019: 2.7
-    2020: 2.7
+    2020: 3.40
 brunst-epigenetics:
   title: "Epigenetics, Air Pollution, and Childhood Mental Health"
   goals: "Use data from three longitudinal birth cohorts to examine the impact of air pollution on the epigenome and the onset of childhood anxiety and depression symptoms. DNA methylation biomarkers are investigated to advance our understanding of potential molecular pathways involved in air pollution neurotoxicity and/or anxiety and depression pathophysiology."
@@ -89,7 +121,7 @@ brunst-epigenetics:
   end_date: 4/29/25
   amount: 1499436
   effort:
-    2020: 1.44
+    2020: 0.88
     2021: 1.8
     2022: 1.8
     2023: 1.8
@@ -108,7 +140,7 @@ cf-geomarker:
   effort:
     2019: 3.6
     2020: 1.8
-    2021: 1.8
+    2021: 2.9
     2022: 3.6
     2023: 3.6
 emerge-iv:
@@ -118,50 +150,16 @@ emerge-iv:
   number: U01HG011172
   pi_name: Harley J
   source: NIH
-  ppp: Cincinnati Children's Hopsital Medical Center
-  start_date: 4/1/20
-  end_date: 3/31/25
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 7/1/20
+  end_date: 4/29/25
   amount: 6965522
   effort:
-    2020: 0.46
-    2021: 0.6
+    2020: 0.44
+    2021: 0.44
     2022: 0.6
     2023: 0.6
     2024: 0.6
-tes-r01:
-  title: "Epigenome-wide variations and socio-environmental exposures in African American asthmatic children"
-  goals: "Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children."
-  status: Pending
-  number: R01HG011411
-  pi_name: Mersha T
-  source: NIH
-  ppp: Cincinnati Children's Hospital Medical Center
-  start_date: 7/1/21
-  end_date: 6/30/26
-  amount: 3871139
-  effort:
-    2021: 1.2
-    2022: 1.2
-    2023: 1.2
-    2024: 1.2
-    2025: 1.2
-beck-riseup:
-  title: "Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System"
-  goals: "Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community."
-  status: Pending
-  number: ""
-  pi_name: Beck A
-  source: AHRQ
-  ppp: Cincinnati Children's Hopsital Medical Center
-  start_date: 11/1/21
-  end_date: 10/31/26
-  amount: 1995559
-  effort:
-    2021: 2.4
-    2022: 2.4
-    2023: 2.4
-    2024: 2.4
-    2025: 2.4
 odh-lead:
   title: "Model Identifying Geographic Areas in Ohio for Blood Lead Testing"
   goals: "Develop a predictive model to determine which children should be tested for potentially high blood lead during physician visits based on their residential location."
@@ -172,7 +170,7 @@ odh-lead:
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 4/01/20
   end_date: 9/30/20
-  amount:  ""
+  amount:  72500
 ses-pred:
   title: "Using machine learning to supplement electronic health record databases with individual socioeconomic status"
   goals: Create a novel machine learning approach to use open city and auditor databases to predict individual level income and family socioeconomic status. Determine its ability to mitigate bias in electronic health research studies that rely on insurance status to capture individual-level SES.
@@ -183,7 +181,7 @@ ses-pred:
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 9/1/17
   end_date: 6/30/19
-  amount: ""
+  amount: 44990
 strauss:
   title: Assessing Exposure to Air Pollution Across Time and Space
   goals: Combine satellite-based measurements, land use characteristics, and meteorologic data to create a hybrid spatiotemporal model for ground level exposure to particulate matter using exact addresses and dates.
@@ -194,7 +192,7 @@ strauss:
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 7/1/16
   end_date: 6/30/17
-  amount: ""
+  amount: 10000
 degauss-validate:
   title: "Validating a Geocoding Approach for Multi-Site Studies"
   goals: Compare geocoding accuracy and ability to correctly estimate environmental exposures and community-level characteristics using DeGAUSS with other common geocoding software. 
@@ -205,6 +203,6 @@ degauss-validate:
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 1/24/17
   end_date: 6/30/17
-  amount: ""
+  amount: 5000
   
   

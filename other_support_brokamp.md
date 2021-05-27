@@ -12,15 +12,14 @@ Project Number: R61HL154105
 Name of PD/PI: Ziady A, Szczesniak R  
 Source of Support: NIH  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 07/2020 — 06/2023  
-Total Award Amount: $1,180,501  
+Project/Proposal Start and End Date: 09/2020 — 06/2022  
+Total Award Amount: $788,746  
 Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2020 |      0.9      |
-| 2. 2021 |      0.0      |
-| 3. 2022 |      0.0      |
+| 1. 2020 |       0       |
+| 2. 2021 |       0       |
 
   
 Title: Longitudinal Impact of Air Pollution on Mental Health and Neuroimaging Outcomes during Adolescence in the Cincinnati Combined Childhood Cohorts (C4)  
@@ -36,11 +35,11 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2021 |     1.44      |
-| 2. 2022 |     1.80      |
-| 3. 2023 |     1.80      |
-| 4. 2024 |     1.80      |
-| 5. 2025 |     1.80      |
+| 1. 2021 |      1.1      |
+| 2. 2022 |      1.8      |
+| 3. 2023 |      1.8      |
+| 4. 2024 |      1.8      |
+| 5. 2025 |      1.8      |
 
   
 Title: A Framework for Automated and Reproducible Geomarker Curation and Computation at Scale  
@@ -56,7 +55,7 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2020 |      3.5      |
+| 1. 2020 |      4.1      |
 | 2. 2021 |      5.4      |
 | 3. 2022 |      5.4      |
 | 4. 2023 |      5.4      |
@@ -76,7 +75,7 @@ Person Months (Calendar) per budget period:
 |  Year   | Person Months |
 |:-------:|:-------------:|
 | 1. 2019 |      2.7      |
-| 2. 2020 |      2.7      |
+| 2. 2020 |      3.4      |
 
   
 Title: Epigenetics, Air Pollution, and Childhood Mental Health  
@@ -92,7 +91,7 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2020 |     1.44      |
+| 1. 2020 |     0.88      |
 | 2. 2021 |     1.80      |
 | 3. 2022 |     1.80      |
 | 4. 2023 |     1.80      |
@@ -114,7 +113,7 @@ Person Months (Calendar) per budget period:
 |:-------:|:-------------:|
 | 1. 2019 |      3.6      |
 | 2. 2020 |      1.8      |
-| 3. 2021 |      1.8      |
+| 3. 2021 |      2.9      |
 | 4. 2022 |      3.6      |
 | 5. 2023 |      3.6      |
 
@@ -125,22 +124,62 @@ Status of Support: Active
 Project Number: U01HG011172  
 Name of PD/PI: Harley J  
 Source of Support: NIH  
-Primary Place of Performance: Cincinnati Children's Hopsital Medical Center  
-Project/Proposal Start and End Date: 04/2020 — 03/2025  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 07/2020 — 04/2025  
 Total Award Amount: $6,965,522  
 Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2020 |     0.46      |
-| 2. 2021 |     0.60      |
+| 1. 2020 |     0.44      |
+| 2. 2021 |     0.44      |
 | 3. 2022 |     0.60      |
 | 4. 2023 |     0.60      |
 | 5. 2024 |     0.60      |
 
   
+Title: Epigenome-wide variations and socio-environmental exposures in African American asthmatic children  
+Major Goals: Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children.  
+Status of Support: Pending  
+Project Number: R01HG011411  
+Name of PD/PI: Mersha T  
+Source of Support: NIH  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 07/2021 — 06/2026  
+Total Award Amount: $3,757,452  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2021 |      0.0      |
+| 2. 2022 |      0.0      |
+| 3. 2023 |      1.2      |
+| 4. 2024 |      1.2      |
+| 5. 2025 |      1.2      |
+
+  
+Title: Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System  
+Major Goals: Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community.  
+Status of Support: Pending  
+Project Number:   
+Name of PD/PI: Beck A  
+Source of Support: AHRQ  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 11/2021 — 10/2026  
+Total Award Amount: $1,995,559  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2021 |      2.4      |
+| 2. 2022 |      2.4      |
+| 3. 2023 |      1.8      |
+| 4. 2024 |      1.5      |
+| 5. 2025 |      1.2      |
+
+  
 Title: Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations  
-Major Goals: Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identiﬁed based on individual- and community-level characteristics, co-exposures, time, and space.  
+Major Goals: Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identified based on individual- and community-level characteristics, co-exposures, time, and space.  
 Status of Support: Pending  
 Project Number: AN:4446180  
 Name of PD/PI: Brokamp C  
@@ -158,46 +197,6 @@ Person Months (Calendar) per budget period:
 | 4. 2024 |      4.2      |
 
   
-Title: Epigenome-wide variations and socio-environmental exposures in African American asthmatic children  
-Major Goals: Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children.  
-Status of Support: Pending  
-Project Number: R01HG011411  
-Name of PD/PI: Mersha T  
-Source of Support: NIH  
-Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 07/2021 — 06/2026  
-Total Award Amount: $3,871,139  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2021 |      1.2      |
-| 2. 2022 |      1.2      |
-| 3. 2023 |      1.2      |
-| 4. 2024 |      1.2      |
-| 5. 2025 |      1.2      |
-
-  
-Title: Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System  
-Major Goals: Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community.  
-Status of Support: Pending  
-Project Number:   
-Name of PD/PI: Beck A  
-Source of Support: AHRQ  
-Primary Place of Performance: Cincinnati Children's Hopsital Medical Center  
-Project/Proposal Start and End Date: 11/2021 — 10/2026  
-Total Award Amount: $1,995,559  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2021 |      2.4      |
-| 2. 2022 |      2.4      |
-| 3. 2023 |      2.4      |
-| 4. 2024 |      2.4      |
-| 5. 2025 |      2.4      |
-
-  
 Title: Model Identifying Geographic Areas in Ohio for Blood Lead Testing  
 Major Goals: Develop a predictive model to determine which children should be tested for potentially high blood lead during physician visits based on their residential location.  
 Status of Support: Completed  
@@ -206,7 +205,7 @@ Name of PD/PI: Brokamp C
 Source of Support: Ohio Department of Health  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 04/2020 — 09/2020  
-Total Award Amount:   
+Total Award Amount: $72,500  
 
   
 Title: Using machine learning to supplement electronic health record databases with individual socioeconomic status  
@@ -217,7 +216,7 @@ Name of PD/PI: Brokamp C
 Source of Support: Center for Clinical & Translational Science & Training  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 09/2017 — 06/2019  
-Total Award Amount:   
+Total Award Amount: $44,990  
 
   
 ## In-Kind
