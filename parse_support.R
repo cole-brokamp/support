@@ -62,7 +62,8 @@ make_support_entry <- function(.x = d$support_data[[5]]) {
       mutate(`Person Months` = unlist(`Person Months`)) %>%
       mutate(year_number = as.numeric(Year)) %>%
       mutate(Year = paste(1:length(.x$effort), Year, sep = ". ")) %>%
-      filter(year_number - year >= 0) %>%
+      filter(year_number - year >= -1) %>%
+      filter(`Person Months` > 0) %>%
       select(-year_number) %>%
       knitr::kable(digits = 2, align = "cc")
 
