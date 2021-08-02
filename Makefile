@@ -1,4 +1,4 @@
-all: other_support_brokamp.md other_support_brokamp.docx sign
+all: other_support_brokamp.md other_support_brokamp.docx
 		R CMD BATCH parse_support.R
 
 other_support_brokamp.md: support.yaml parse_support.R
