@@ -1,3 +1,19 @@
+nancy-r01:
+  title: "Enhanced Injury Surveillance Using Near Real-Time Reporting among Healthcare Workers"
+  goals: "To design and evaluation of an innovative, sustainable near real-time injury surveillance system that employs accurate risk assessment tools to trigger interventions that will change hazardous conditions and prevent future injuries in a real-world setting."
+  status: Pending
+  number: R01OH011581
+  pi_name: Daraiseh N, Macaluso M
+  source: NIH
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 4/1/21
+  end_date: 3/31/25
+  amount: 2544000
+  effort:
+    2021: 0.24
+    2022: 0.24
+    2023: 0.24
+    2024: 0.24
 tes-r01:
   title: "Epigenome-wide variations and socio-environmental exposures in African American asthmatic children"
   goals: "Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children."

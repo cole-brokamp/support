@@ -138,6 +138,25 @@ Person Months (Calendar) per budget period:
 | 5. 2024 |     0.60      |
 
   
+Title: Enhanced Injury Surveillance Using Near Real-Time Reporting among Healthcare Workers  
+Major Goals: To design and evaluation of an innovative, sustainable near real-time injury surveillance system that employs accurate risk assessment tools to trigger interventions that will change hazardous conditions and prevent future injuries in a real-world setting.  
+Status of Support: Pending  
+Project Number: R01OH011581  
+Name of PD/PI: Daraiseh N, Macaluso M  
+Source of Support: NIH  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 04/2021 — 03/2025  
+Total Award Amount: $2,544,000  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2021 |     0.24      |
+| 2. 2022 |     0.24      |
+| 3. 2023 |     0.24      |
+| 4. 2024 |     0.24      |
+
+  
 Title: Epigenome-wide variations and socio-environmental exposures in African American asthmatic children  
 Major Goals: Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children.  
 Status of Support: Pending  
@@ -230,4 +249,4 @@ I, PD/PI or other senior/key personnel, certify that the statements herein are t
 
 Signature:
 
-Date: 2021-05-27
+Date: 2021-07-30
