@@ -83,8 +83,8 @@ c("## In-Kind",
 
 boilerplate <- c(
   "Overlap: There is no scientific overlap between funded and pending projects. Where budget overlap occurs between funded projects, Dr. Brokamp will make appropriate adjustments to reduce his effort in order not to exceed a total committed effort of 12.0 calendar months across all funded projects and work with appropriate institutional administration to resolve any conflicts.",
-  "I, PD/PI or other senior/key personnel, certify that the statements herein are true, complete and accurate to the best of my knowledge, and accept the obligation to comply with Public Health Services terms and conditions if a grant is awarded as a result of this application. I am aware that any false, fictitious, or fraudulent statements or claims may subject me to criminal, civil, or administrative penalties.",
-  "Signature:",
+  ## "I, PD/PI or other senior/key personnel, certify that the statements herein are true, complete and accurate to the best of my knowledge, and accept the obligation to comply with Public Health Services terms and conditions if a grant is awarded as a result of this application. I am aware that any false, fictitious, or fraudulent statements or claims may subject me to criminal, civil, or administrative penalties.",
+  ## "Signature:",
   glue("Date: {Sys.Date()}")
 )
 
