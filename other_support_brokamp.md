@@ -10,7 +10,7 @@ Major Goals: This project will merge two ongoing, prospective cohorts, the Cinci
 Status of Support: Active  
 Project Number: R01ES031621  
 Name of PD/PI: Yolton K, Ryan P, Cecil K  
-Source of Support: NIH  
+Source of Support: NIH/NIEHS  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 03/2021 — 12/2025  
 Total Award Amount: $5,319,812  
@@ -30,7 +30,7 @@ Major Goals: Create a framework for developing a standardized, free and open sou
 Status of Support: Active  
 Project Number: R01LM013222  
 Name of PD/PI: Brokamp C  
-Source of Support: NIH  
+Source of Support: NIH/NLM  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 08/2020 — 07/2024  
 Total Award Amount: $1,351,500  
@@ -47,17 +47,16 @@ Person Months (Calendar) per budget period:
 Title: Decentralized and Reproducible Geomarker Assessment for Multi-Site Studies  
 Major Goals: Create a software tool to facilitate the exposure assessment of gridded spatiotemporal data based on residential addresses and date of birth without sharing or exposing protected health information.  
 Status of Support: Active  
-Project Number: ECHO OIF  
-Name of PD/PI: Brokamp C  
-Source of Support: Duke University  
-Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project Number: U2COD023375  
+Name of PD/PI: Benjamin D, Newby L, Smith, P  
+Source of Support: NIH/OD  
+Primary Place of Performance: Duke University, Durham  
 Project/Proposal Start and End Date: 09/2019 — 08/2021  
 Total Award Amount: $199,393  
 Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2019 |      2.7      |
 | 2. 2020 |      3.4      |
 
   
@@ -66,7 +65,7 @@ Major Goals: Use data from three longitudinal birth cohorts to examine the impac
 Status of Support: Active  
 Project Number: R01ES031054  
 Name of PD/PI: Brunst K  
-Source of Support: NIH  
+Source of Support: NIH/NIEHS  
 Primary Place of Performance: University of Cincinnati  
 Project/Proposal Start and End Date: 07/2020 — 04/2025  
 Total Award Amount: $1,499,436  
@@ -86,7 +85,7 @@ Major Goals: Leverage a rich CF registry, extant national and local environmenta
 Status of Support: Active  
 Project Number: R01HL141286  
 Name of PD/PI: Szczesniak R  
-Source of Support: NIH  
+Source of Support: NIH/NHLBI  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 01/2019 — 12/2023  
 Total Award Amount: $2,286,948  
@@ -94,7 +93,6 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2019 |      3.6      |
 | 2. 2020 |      1.8      |
 | 3. 2021 |      2.9      |
 | 4. 2022 |      3.6      |
@@ -105,8 +103,8 @@ Title: Polygenic Risk Scores for Healthier African American Families
 Major Goals: Ascertain and enroll 800 African American mothers with newborn babies along with available fathers and siblings and develop polygenic risk scores and incorporate them into genomic risk estimates for Asthma, Atopic Dermatitis, Obesity, Hypertension, Hypercholesterolemia, Premature Birth, and Breast Cancer. We will cope with the ethics of returning results and for selected situations intervene for mitigate risk.  
 Status of Support: Active  
 Project Number: U01HG011172  
-Name of PD/PI: Harley J  
-Source of Support: NIH  
+Name of PD/PI: Prows C  
+Source of Support: NIH/NHGRI  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 07/2020 — 04/2025  
 Total Award Amount: $6,965,522  
@@ -115,7 +113,7 @@ Person Months (Calendar) per budget period:
 |  Year   | Person Months |
 |:-------:|:-------------:|
 | 1. 2020 |     0.44      |
-| 2. 2021 |     0.44      |
+| 2. 2021 |     0.56      |
 | 3. 2022 |     0.60      |
 | 4. 2023 |     0.60      |
 | 5. 2024 |     0.60      |
@@ -126,7 +124,7 @@ Major Goals: To design and evaluation of an innovative, sustainable near real-ti
 Status of Support: Pending  
 Project Number: R01OH011581  
 Name of PD/PI: Daraiseh N, Macaluso M  
-Source of Support: NIH  
+Source of Support: NIH/NIOSH  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 04/2021 — 03/2025  
 Total Award Amount: $2,544,000  
@@ -145,7 +143,7 @@ Major Goals: Determine the relationship between asthma severity, the epigenome, 
 Status of Support: Pending  
 Project Number: R01HG011411  
 Name of PD/PI: Mersha T  
-Source of Support: NIH  
+Source of Support: NIH/NHGRI  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 07/2021 — 06/2026  
 Total Award Amount: $3,757,452  
@@ -153,8 +151,6 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2021 |      0.0      |
-| 2. 2022 |      0.0      |
 | 3. 2023 |      1.2      |
 | 4. 2024 |      1.2      |
 | 5. 2025 |      1.2      |
@@ -183,7 +179,7 @@ Person Months (Calendar) per budget period:
 Title: Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations  
 Major Goals: Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identified based on individual- and community-level characteristics, co-exposures, time, and space.  
 Status of Support: Pending  
-Project Number: AN:4446180  
+Project Number: R01ES032812  
 Name of PD/PI: Brokamp C  
 Source of Support: NIH  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
@@ -221,15 +217,55 @@ Project/Proposal Start and End Date: 09/2017 — 06/2019
 Total Award Amount: $44,990  
 
   
+Title: Biomarkers and Risk Stratification in Pediatric Community-Acquired Pneumonia  
+Major Goals: Use biomarkers measured in the emergency setting to identify and stratify risk within children with community-acquired pneumonia.  
+Status of Support: Completed  
+Project Number: K23AI121325  
+Name of PD/PI: Florin T  
+Source of Support: NIH/NAID  
+Primary Place of Performance: Lurie Children's Hospital of Chicago  
+Project/Proposal Start and End Date: 08/2018 — 12/2018  
+Total Award Amount: $13,451  
+
+  
+Title: Comparison of Hemorrhagic & Ischemic Stroke Among Blacks and Whites  
+Major Goals: Estimate clinical and population-level epidemiology of strokes across the Greater Cincinnati Area.  
+Status of Support: Completed  
+Project Number: R01NS030678  
+Name of PD/PI: Kissela B  
+Source of Support: NIH/NINDS  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 04/2015 — 03/2020  
+Total Award Amount: $1,018,667  
+
+  
+Title: Ohio Opioid Analytics Project  
+Major Goals: Create a predictive algorithm and accompanying interactive tool for policy-makers and clinicians for area-level rates of opioid use disorder and individual-level outcomes for children exposed to opioids in utero.  
+Status of Support: Completed  
+Project Number: G-1819-05-0094  
+Name of PD/PI: Crane D  
+Source of Support: ODM/ODHE  
+Primary Place of Performance: Ohio State University  
+Project/Proposal Start and End Date: 05/2018 — 06/2019  
+Total Award Amount: $88,183  
+
+  
+Title: A novel research infrastructure enabling life-course studies of healthy aging  
+Major Goals: Supplement an existing, historical multi-site cohort study with estimates of community characteristics and environmental exposures.  
+Status of Support: Completed  
+Project Number: R21AG057983  
+Name of PD/PI: Bazzano L  
+Source of Support: NIH/NIA  
+Primary Place of Performance: Tulane University  
+Project/Proposal Start and End Date: 08/2018 — 07/2021  
+Total Award Amount: $268,769  
+
+  
 ## In-Kind
 
 Not Applicable
 
 
 Overlap: There is no scientific overlap between funded and pending projects. Where budget overlap occurs between funded projects, Dr. Brokamp will make appropriate adjustments to reduce his effort in order not to exceed a total committed effort of 12.0 calendar months across all funded projects and work with appropriate institutional administration to resolve any conflicts.
-
-I, PD/PI or other senior/key personnel, certify that the statements herein are true, complete and accurate to the best of my knowledge, and accept the obligation to comply with Public Health Services terms and conditions if a grant is awarded as a result of this application. I am aware that any false, fictitious, or fraudulent statements or claims may subject me to criminal, civil, or administrative penalties.
-
-Signature:
 
 Date: 2021-08-02

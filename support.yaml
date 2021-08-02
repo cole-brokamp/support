@@ -4,7 +4,7 @@ nancy-r01:
   status: Pending
   number: R01OH011581
   pi_name: Daraiseh N, Macaluso M
-  source: NIH
+  source: NIH/NIOSH
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 4/1/21
   end_date: 3/31/25
@@ -20,7 +20,7 @@ tes-r01:
   status: Pending
   number: R01HG011411
   pi_name: Mersha T
-  source: NIH
+  source: NIH/NHGRI
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 7/1/21
   end_date: 6/30/26
@@ -52,7 +52,7 @@ pedsnet-pm:
   title: "Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations"
   goals: "Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identified based on individual- and community-level characteristics, co-exposures, time, and space."
   status: Pending
-  number: "AN:4446180"
+  number: "R01ES032812"
   pi_name: Brokamp C
   source: NIH
   ppp: Cincinnati Children's Hospital Medical Center
@@ -70,7 +70,7 @@ c4:
   status: Active
   number: R01ES031621
   pi_name: Yolton K, Ryan P, Cecil K
-  source: NIH
+  source: NIH/NIEHS
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 3/3/21
   end_date: 12/31/25
@@ -87,7 +87,7 @@ degauss-r01:
   status: Active
   number: R01LM013222
   pi_name: Brokamp C
-  source: NIH
+  source: NIH/NLM
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 8/1/20
   end_date: 7/31/24
@@ -101,10 +101,10 @@ echo-oif:
   title: "Decentralized and Reproducible Geomarker Assessment for Multi-Site Studies"
   goals: "Create a software tool to facilitate the exposure assessment of gridded spatiotemporal data based on residential addresses and date of birth without sharing or exposing protected health information."
   status: Active
-  number: ECHO OIF
-  pi_name: Brokamp C
-  source: Duke University
-  ppp: Cincinnati Children's Hospital Medical Center
+  number: U2COD023375
+  pi_name: Benjamin D, Newby L, Smith, P
+  source: NIH/OD
+  ppp: Duke University, Durham
   start_date: 9/1/19
   end_date: 8/31/21
   amount: 199393
@@ -117,7 +117,7 @@ brunst-epigenetics:
   status: Active
   number: R01ES031054
   pi_name: Brunst K
-  source: NIH
+  source: NIH/NIEHS
   ppp: University of Cincinnati
   start_date: 7/1/20
   end_date: 4/29/25
@@ -134,7 +134,7 @@ cf-geomarker:
   status: Active
   number: R01HL141286
   pi_name: Szczesniak R
-  source: NIH
+  source: NIH/NHLBI
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 1/18/19
   end_date: 12/31/23
@@ -150,15 +150,15 @@ emerge-iv:
   goals: "Ascertain and enroll 800 African American mothers with newborn babies along with available fathers and siblings and develop polygenic risk scores and incorporate them into genomic risk estimates for Asthma, Atopic Dermatitis, Obesity, Hypertension, Hypercholesterolemia, Premature Birth, and Breast Cancer. We will cope with the ethics of returning results and for selected situations intervene for mitigate risk."
   status: Active
   number: U01HG011172
-  pi_name: Harley J
-  source: NIH
+  pi_name: Prows C
+  source: NIH/NHGRI
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 7/1/20
   end_date: 4/29/25
   amount: 6965522
   effort:
     2020: 0.44
-    2021: 0.44
+    2021: 0.56
     2022: 0.6
     2023: 0.6
     2024: 0.6
@@ -206,5 +206,49 @@ degauss-validate:
   start_date: 1/24/17
   end_date: 6/30/17
   amount: 5000
+florin-k:
+  title: "Biomarkers and Risk Stratification in Pediatric Community-Acquired Pneumonia"
+  goals: Use biomarkers measured in the emergency setting to identify and stratify risk within children with community-acquired pneumonia.
+  status: Completed
+  number: "K23AI121325"
+  pi_name: Florin T
+  source: NIH/NAID
+  ppp: Lurie Children's Hospital of Chicago
+  start_date: 8/1/18
+  end_date: 12/1/18
+  amount: 13451
+stroke-r01:
+  title: "Comparison of Hemorrhagic & Ischemic Stroke Among Blacks and Whites"
+  goals: Estimate clinical and population-level epidemiology of strokes across the Greater Cincinnati Area.
+  status: Completed
+  number: "R01NS030678"
+  pi_name: Kissela B
+  source: NIH/NINDS
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 04/01/15
+  end_date: 03/30/20
+  amount: 1018667
+ooap:
+  title: Ohio Opioid Analytics Project
+  goals: Create a predictive algorithm and accompanying interactive tool for policy-makers and clinicians for area-level rates of opioid use disorder and individual-level outcomes for children exposed to opioids in utero.
+  status: Completed
+  number: "G-1819-05-0094"
+  pi_name: Crane D
+  source: ODM/ODHE
+  ppp: Ohio State University
+  start_date: 5/1/18
+  end_date: 6/30/19
+  amount: 88183
+jess-tulane:
+  title: "A novel research infrastructure enabling life-course studies of healthy aging"
+  goals: Supplement an existing, historical multi-site cohort study with estimates of community characteristics and environmental exposures.
+  status: Completed
+  number: "R21AG057983"
+  pi_name: Bazzano L
+  source: NIH/NIA
+  ppp: Tulane University
+  start_date: 08/01/18
+  end_date: 07/01/21
+  amount: 268769
   
   
