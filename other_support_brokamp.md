@@ -5,23 +5,6 @@ Commons ID: brokampr
 ## Other Support – Project/Proposal
 
 
-Title: Commercial Translation of Biomarker-based Platform for Personalized Forecasting of Rapid Lung Function Decline  
-Major Goals: Develop a proteomic marker-informed algorithm that predicts lung function into a tool delivered to the cystic fibrosis care community.  
-Status of Support: Active  
-Project Number: R61HL154105  
-Name of PD/PI: Ziady A, Szczesniak R  
-Source of Support: NIH  
-Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 09/2020 — 06/2022  
-Total Award Amount: $788,746  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2020 |       0       |
-| 2. 2021 |       0       |
-
-  
 Title: Longitudinal Impact of Air Pollution on Mental Health and Neuroimaging Outcomes during Adolescence in the Cincinnati Combined Childhood Cohorts (C4)  
 Major Goals: This project will merge two ongoing, prospective cohorts, the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS) and the Health Outcomes and Measures of the Environment (HOME) Study, to examine the role of air pollution on adverse mental health and neuroimaging outcomes and in early adolescence.  
 Status of Support: Active  
@@ -249,4 +232,4 @@ I, PD/PI or other senior/key personnel, certify that the statements herein are t
 
 Signature:
 
-Date: 2021-07-30
+Date: 2021-08-02

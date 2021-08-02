@@ -64,20 +64,6 @@ pedsnet-pm:
     2022: 3.6
     2023: 4.2
     2024: 4.2
-commercial-proteins:
-  title: "Commercial Translation of Biomarker-based Platform for Personalized Forecasting of Rapid Lung Function Decline"
-  goals: "Develop a proteomic marker-informed algorithm that predicts lung function into a tool delivered to the cystic fibrosis care community."
-  status: Active
-  number: R61HL154105
-  pi_name: Ziady A, Szczesniak R
-  source: NIH
-  ppp: Cincinnati Children's Hospital Medical Center
-  start_date: 9/1/20
-  end_date: 6/30/22
-  amount: 788746
-  effort:
-    2020: 0
-    2021: 0
 c4:
   title: "Longitudinal Impact of Air Pollution on Mental Health and Neuroimaging Outcomes during Adolescence in the Cincinnati Combined Childhood Cohorts (C4)"
   goals: "This project will merge two ongoing, prospective cohorts, the Cincinnati Childhood Allergy and Air Pollution Study (CCAAPS) and the Health Outcomes and Measures of the Environment (HOME) Study, to examine the role of air pollution on adverse mental health and neuroimaging outcomes and in early adolescence."
