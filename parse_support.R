@@ -16,11 +16,12 @@ d <-
 d$status <- factor(d$status, levels = c("Active", "Pending", "Completed"))
 d <- arrange(d, status)
 
-make_support_entry <- function(.x = d$support_data[[2]]) {
+make_support_entry <- function(.x = d$support_data[[5]]) {
 
   start_date <- as.Date(.x$start_date, format = "%m/%d/%y")
   end_date <- as.Date(.x$end_date, format = "%m/%d/%y")
   today <- Sys.Date()
+  year <- as.numeric(format(today, "%Y"))
 
   # if project is older than three years, don't show it
   if ((end_date - today) < -(365 * 3)) {
@@ -52,14 +53,17 @@ make_support_entry <- function(.x = d$support_data[[2]]) {
   ))
 
 
-  # calculate effort table only for pending and active projects
+  # calculate current effort table only for pending and active projects
   if (.x$status %in% c("Active", "Pending")) {
     out <- glue("{out}\nPerson Months (Calendar) per budget period:")
     effort_table <-
       .x$effort %>%
       tibble::enframe(name = "Year", value = "Person Months") %>%
       mutate(`Person Months` = unlist(`Person Months`)) %>%
+      mutate(year_number = as.numeric(Year)) %>%
       mutate(Year = paste(1:length(.x$effort), Year, sep = ". ")) %>%
+      filter(year_number - year >= 0) %>%
+      select(-year_number) %>%
       knitr::kable(digits = 2, align = "cc")
 
     out <- c(out, "  ", paste(effort_table, collapse = "\n"), "\n  ")
