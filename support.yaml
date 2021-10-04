@@ -1,7 +1,7 @@
 nancy-r01:
   title: "Enhanced Injury Surveillance Using Near Real-Time Reporting among Healthcare Workers"
   goals: "To design and evaluation of an innovative, sustainable near real-time injury surveillance system that employs accurate risk assessment tools to trigger interventions that will change hazardous conditions and prevent future injuries in a real-world setting."
-  status: Pending
+  status: Active
   number: R01OH011581
   pi_name: Daraiseh N, Macaluso M
   source: NIH/NIOSH
@@ -17,7 +17,7 @@ nancy-r01:
 tes-r01:
   title: "Epigenome-wide variations and socio-environmental exposures in African American asthmatic children"
   goals: "Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children."
-  status: Pending
+  status: Active
   number: R01HG011411
   pi_name: Mersha T
   source: NIH/NHGRI
@@ -100,7 +100,7 @@ degauss-r01:
 echo-oif:
   title: "Decentralized and Reproducible Geomarker Assessment for Multi-Site Studies"
   goals: "Create a software tool to facilitate the exposure assessment of gridded spatiotemporal data based on residential addresses and date of birth without sharing or exposing protected health information."
-  status: Active
+  status: Completed
   number: U2COD023375
   pi_name: Benjamin D, Newby L, Smith, P
   source: NIH/OD
