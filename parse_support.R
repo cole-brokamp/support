@@ -3,9 +3,11 @@ library(tidyr)
 library(purrr)
 library(glue)
 
-c("Name of Individual: Cole Brokamp",
+c(
+  "Name of Individual: Cole Brokamp",
   "Commons ID: brokampr",
-  "## Other Support – Project/Proposal\n\n") %>%
+  "## Other Support – Project/Proposal\n\n"
+) %>%
   cat(file = "other_support_brokamp.md", sep = "\n\n", append = FALSE)
 
 d <-
@@ -13,11 +15,8 @@ d <-
   tibble::enframe(name = "id", value = "support_data") %>%
   mutate(status = map_chr(support_data, "status"))
 
-d$status <- factor(d$status, levels = c("Active", "Pending", "Completed"))
-d <- arrange(d, status)
 
 make_support_entry <- function(.x = d$support_data[[5]]) {
-
   start_date <- as.Date(.x$start_date, format = "%m/%d/%y")
   end_date <- as.Date(.x$end_date, format = "%m/%d/%y")
   today <- Sys.Date()
@@ -34,23 +33,23 @@ make_support_entry <- function(.x = d$support_data[[5]]) {
     "{format(end_date, format = '%m/%Y')}"
   )
 
-  # only try to format numeric amounts 
+  # only try to format numeric amounts
   if (is.numeric(.x$amount)) {
     .x$amount <- scales::dollar(.x$amount)
   }
 
   out <-
     with(.x, glue::glue(
-    "Title: {title}  \n",
-    "Major Goals: {goals}  \n",
-    "Status of Support: {status}  \n",
-    "Project Number: {number}  \n",
-    "Name of PD/PI: {pi_name}  \n",
-    "Source of Support: {source}  \n",
-    "Primary Place of Performance: {ppp}  \n",
-    "Project/Proposal Start and End Date: {dates}  \n",
-    "Total Award Amount: {amount}  \n"
-  ))
+      "Title: {title}  \n",
+      "Major Goals: {goals}  \n",
+      "Status of Support: {status}  \n",
+      "Project Number: {number}  \n",
+      "Name of PD/PI: {pi_name}  \n",
+      "Source of Support: {source}  \n",
+      "Primary Place of Performance: {ppp}  \n",
+      "Project/Proposal Start and End Date: {dates}  \n",
+      "Total Award Amount: {amount}  \n"
+    ))
 
 
   # calculate current effort table only for pending and active projects
@@ -70,20 +69,19 @@ make_support_entry <- function(.x = d$support_data[[5]]) {
     out <- c(out, "  ", paste(effort_table, collapse = "\n"), "\n  ")
   } else {
     out <- c(out, "\n  ")
-    }
+  }
 
   return(out)
-
 }
 
-safely_make_support_entry <- purrr::possibly(make_support_entry, otherwise = NA)
-
-purrr::map(d$support_data, safely_make_support_entry) %>%
+purrr::map(d$support_data, make_support_entry) %>%
   unlist() %>%
   cat(file = "other_support_brokamp.md", sep = "\n", append = TRUE)
 
-c("## In-Kind",
-  "Not Applicable\n\n") %>%
+c(
+  "## In-Kind",
+  "Not Applicable\n\n"
+) %>%
   cat(file = "other_support_brokamp.md", sep = "\n\n", append = TRUE)
 
 boilerplate <- c(
