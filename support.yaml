@@ -1,3 +1,47 @@
+lam-foundation-rhonda:
+  title: "Monitoring Risk of Rapid Lung Function Decline: The LAM Prediction (LAMP) Early Translation Study"
+  goals: "Develop a predictive algorithm for predicting rapid decline in lung function among patients with LAM."
+  status: Pending
+  number: TBD
+  pi_name: Szczesniak R
+  source: The LAM Foundation
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 4/1/22
+  end_date: 3/1/24
+  amount: 282249
+  effort:
+    2022: 0.36
+    2023: 0.36
+jazz-nationwide:
+  title: "Developing and testing a large-scale system for effective, equitable personalized care for children with Crohn's Disease and ulcerative colitis"
+  goals: "Develop, integrate, and test a personalized care system for children with Crohn’s Disease and ulcerative colitis."
+  status: Pending
+  number: TBD
+  pi_name: Dotson J
+  source: NIH/NIMHD
+  ppp: Nationwide Children's Hospital, Columbus
+  start_date: 4/1/22
+  end_date: 3/1/24
+  amount: 282249
+  effort:
+    2022: 0.36
+    2023: 0.36
+aft-harmony:
+  title: "All Families Thrive"
+  goals: "Reduce childhood abuse and neglect in Cincinnati, OH by using place-based tools and interventions."
+  status: Active
+  number: N/A
+  pi_name: Kahn R
+  source: Harmony Foundation
+  ppp: Cincinnati Children's Hospital Medical Center
+  start_date: 1/1/20
+  end_date: 6/30/24
+  amount: 835800
+  effort:
+    2020: 1.8
+    2021: 1.8
+    2022: 1.8
+    2023: 1.8
 nancy-r01:
   title: "Enhanced Injury Surveillance Using Near Real-Time Reporting among Healthcare Workers"
   goals: "To design and evaluation of an innovative, sustainable near real-time injury surveillance system that employs accurate risk assessment tools to trigger interventions that will change hazardous conditions and prevent future injuries in a real-world setting."
@@ -6,8 +50,8 @@ nancy-r01:
   pi_name: Daraiseh N, Macaluso M
   source: NIH/NIOSH
   ppp: Cincinnati Children's Hospital Medical Center
-  start_date: 4/1/21
-  end_date: 3/31/25
+  start_date: 9/1/21
+  end_date: 9/31/25
   amount: 2544000
   effort:
     2021: 0.24
@@ -22,9 +66,9 @@ tes-r01:
   pi_name: Mersha T
   source: NIH/NHGRI
   ppp: Cincinnati Children's Hospital Medical Center
-  start_date: 7/1/21
+  start_date: 9/1/21
   end_date: 6/30/26
-  amount: 3757452
+  amount: 3318702
   effort:
     2021: 0.0
     2022: 0.0
@@ -54,7 +98,7 @@ pedsnet-pm:
   status: Pending
   number: "R01ES032812"
   pi_name: Brokamp C
-  source: NIH
+  source: NIH/NIEHS
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 4/1/21
   end_date: 3/31/25
@@ -77,10 +121,10 @@ c4:
   amount: 5319812
   effort:
     2021: 1.10
-    2022: 1.80
-    2023: 1.80
-    2024: 1.80
-    2025: 1.80
+    2022: 1.44
+    2023: 1.44
+    2024: 1.44
+    2025: 1.44
 degauss-r01:
   title: "A Framework for Automated and Reproducible Geomarker Curation and Computation at Scale"
   goals: "Create a framework for developing a standardized, free and open source library of reproducible and computable geomarkers that will enhance the efficiency and collaboration of biomedical researchers utilizing place-based data at scale."
@@ -94,7 +138,7 @@ degauss-r01:
   amount: 1351500
   effort:
     2020: 4.10
-    2021: 5.40
+    2021: 4.10
     2022: 5.40
     2023: 5.40
 echo-oif:
@@ -121,7 +165,7 @@ brunst-epigenetics:
   ppp: University of Cincinnati
   start_date: 7/1/20
   end_date: 4/29/25
-  amount: 1499436
+  amount: 1249527
   effort:
     2020: 0.88
     2021: 1.8
@@ -142,8 +186,8 @@ cf-geomarker:
   effort:
     2019: 3.6
     2020: 1.8
-    2021: 2.9
-    2022: 3.6
+    2021: 2.68
+    2022: 3.23
     2023: 3.6
 emerge-iv:
   title: "Polygenic Risk Scores for Healthier African American Families"

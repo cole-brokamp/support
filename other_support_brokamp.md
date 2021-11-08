@@ -5,25 +5,26 @@ Commons ID: brokampr
 ## Other Support – Project/Proposal
 
 
-Title: Enhanced Injury Surveillance Using Near Real-Time Reporting among Healthcare Workers  
-Major Goals: To design and evaluation of an innovative, sustainable near real-time injury surveillance system that employs accurate risk assessment tools to trigger interventions that will change hazardous conditions and prevent future injuries in a real-world setting.  
+Title: All Families Thrive  
+Major Goals: Reduce childhood abuse and neglect in Cincinnati, OH by using place-based tools and interventions.  
 Status of Support: Active  
-Project Number: R01OH011581  
-Name of PD/PI: Daraiseh N, Macaluso M  
-Source of Support: NIH/NIOSH  
+Project Number: N/A  
+Name of PD/PI: Kahn R  
+Source of Support: Harmony Foundation  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 04/2021 — 03/2025  
-Total Award Amount: $2,544,000  
+Project/Proposal Start and End Date: 01/2020 — 06/2024  
+Total Award Amount: $835,800  
 Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2021 |     0.24      |
-| 2. 2022 |     0.24      |
-| 3. 2023 |     0.24      |
-| 4. 2024 |     0.24      |
+| 1. 2020 |      1.8      |
+| 2. 2021 |      1.8      |
+| 3. 2022 |      1.8      |
+| 4. 2023 |      1.8      |
 
   
+NA
 Title: Epigenome-wide variations and socio-environmental exposures in African American asthmatic children  
 Major Goals: Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children.  
 Status of Support: Active  
@@ -31,8 +32,8 @@ Project Number: R01HG011411
 Name of PD/PI: Mersha T  
 Source of Support: NIH/NHGRI  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 07/2021 — 06/2026  
-Total Award Amount: $3,757,452  
+Project/Proposal Start and End Date: 09/2021 — 06/2026  
+Total Award Amount: $3,318,702  
 Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
@@ -55,11 +56,11 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 1. 2021 |      1.1      |
-| 2. 2022 |      1.8      |
-| 3. 2023 |      1.8      |
-| 4. 2024 |      1.8      |
-| 5. 2025 |      1.8      |
+| 1. 2021 |     1.10      |
+| 2. 2022 |     1.44      |
+| 3. 2023 |     1.44      |
+| 4. 2024 |     1.44      |
+| 5. 2025 |     1.44      |
 
   
 Title: A Framework for Automated and Reproducible Geomarker Curation and Computation at Scale  
@@ -76,7 +77,7 @@ Person Months (Calendar) per budget period:
 |  Year   | Person Months |
 |:-------:|:-------------:|
 | 1. 2020 |      4.1      |
-| 2. 2021 |      5.4      |
+| 2. 2021 |      4.1      |
 | 3. 2022 |      5.4      |
 | 4. 2023 |      5.4      |
 
@@ -89,7 +90,7 @@ Name of PD/PI: Brunst K
 Source of Support: NIH/NIEHS  
 Primary Place of Performance: University of Cincinnati  
 Project/Proposal Start and End Date: 07/2020 — 04/2025  
-Total Award Amount: $1,499,436  
+Total Award Amount: $1,249,527  
 Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
@@ -114,10 +115,10 @@ Person Months (Calendar) per budget period:
   
 |  Year   | Person Months |
 |:-------:|:-------------:|
-| 2. 2020 |      1.8      |
-| 3. 2021 |      2.9      |
-| 4. 2022 |      3.6      |
-| 5. 2023 |      3.6      |
+| 2. 2020 |     1.80      |
+| 3. 2021 |     2.68      |
+| 4. 2022 |     3.23      |
+| 5. 2023 |     3.60      |
 
   
 Title: Polygenic Risk Scores for Healthier African American Families  
@@ -138,6 +139,40 @@ Person Months (Calendar) per budget period:
 | 3. 2022 |     0.60      |
 | 4. 2023 |     0.60      |
 | 5. 2024 |     0.60      |
+
+  
+Title: Monitoring Risk of Rapid Lung Function Decline: The LAM Prediction (LAMP) Early Translation Study  
+Major Goals: Develop a predictive algorithm for predicting rapid decline in lung function among patients with LAM.  
+Status of Support: Pending  
+Project Number: TBD  
+Name of PD/PI: Szczesniak R  
+Source of Support: The LAM Foundation  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 04/2022 — 03/2024  
+Total Award Amount: $282,249  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2022 |     0.36      |
+| 2. 2023 |     0.36      |
+
+  
+Title: Developing and testing a large-scale system for effective, equitable personalized care for children with Crohn's Disease and ulcerative colitis  
+Major Goals: Develop, integrate, and test a personalized care system for children with Crohn’s Disease and ulcerative colitis.  
+Status of Support: Pending  
+Project Number: TBD  
+Name of PD/PI: Dotson J  
+Source of Support: NIH/NIMHD  
+Primary Place of Performance: Nationwide Children's Hospital, Columbus  
+Project/Proposal Start and End Date: 04/2022 — 03/2024  
+Total Award Amount: $282,249  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2022 |     0.36      |
+| 2. 2023 |     0.36      |
 
   
 Title: Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System  
@@ -165,7 +200,7 @@ Major Goals: Determine if short-term air pollution contributes to psychiatric ex
 Status of Support: Pending  
 Project Number: R01ES032812  
 Name of PD/PI: Brokamp C  
-Source of Support: NIH  
+Source of Support: NIH/NIEHS  
 Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
 Project/Proposal Start and End Date: 04/2021 — 03/2025  
 Total Award Amount: $1,129,325  
@@ -263,4 +298,4 @@ Not Applicable
 
 Overlap: There is no scientific overlap between funded and pending projects. Where budget overlap occurs between funded projects, Dr. Brokamp will make appropriate adjustments to reduce his effort in order not to exceed a total committed effort of 12.0 calendar months across all funded projects and work with appropriate institutional administration to resolve any conflicts.
 
-Date: 2021-10-04
+Date: 2021-11-08
