@@ -5,6 +5,40 @@ Commons ID: brokampr
 ## Other Support – Project/Proposal
 
 
+Title: Monitoring Risk of Rapid Lung Function Decline: The LAM Prediction (LAMP) Early Translation Study  
+Major Goals: Develop a predictive algorithm for predicting rapid decline in lung function among patients with LAM.  
+Status of Support: Pending  
+Project Number: TBD  
+Name of PD/PI: Szczesniak R  
+Source of Support: The LAM Foundation  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 04/2022 — 03/2024  
+Total Award Amount: $282,249  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2022 |     0.36      |
+| 2. 2023 |     0.36      |
+
+  
+Title: Developing and testing a large-scale system for effective, equitable personalized care for children with Crohn's Disease and ulcerative colitis  
+Major Goals: Develop, integrate, and test a personalized care system for children with Crohn’s Disease and ulcerative colitis.  
+Status of Support: Pending  
+Project Number: TBD  
+Name of PD/PI: Dotson J  
+Source of Support: NIH/NIMHD  
+Primary Place of Performance: Nationwide Children's Hospital, Columbus  
+Project/Proposal Start and End Date: 04/2022 — 03/2024  
+Total Award Amount: $282,249  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2022 |     0.36      |
+| 2. 2023 |     0.36      |
+
+  
 Title: All Families Thrive  
 Major Goals: Reduce childhood abuse and neglect in Cincinnati, OH by using place-based tools and interventions.  
 Status of Support: Active  
@@ -24,7 +58,25 @@ Person Months (Calendar) per budget period:
 | 4. 2023 |      1.8      |
 
   
-NA
+Title: Enhanced Injury Surveillance Using Near Real-Time Reporting among Healthcare Workers  
+Major Goals: To design and evaluation of an innovative, sustainable near real-time injury surveillance system that employs accurate risk assessment tools to trigger interventions that will change hazardous conditions and prevent future injuries in a real-world setting.  
+Status of Support: Active  
+Project Number: R01OH011581  
+Name of PD/PI: Daraiseh N, Macaluso M  
+Source of Support: NIH/NIOSH  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 09/2021 — 09/2025  
+Total Award Amount: $2,544,000  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2021 |     0.24      |
+| 2. 2022 |     0.24      |
+| 3. 2023 |     0.24      |
+| 4. 2024 |     0.24      |
+
+  
 Title: Epigenome-wide variations and socio-environmental exposures in African American asthmatic children  
 Major Goals: Determine the relationship between asthma severity, the epigenome, environmental exposures, and community characteristics in a cohort of African American asthmatic children.  
 Status of Support: Active  
@@ -41,6 +93,45 @@ Person Months (Calendar) per budget period:
 | 3. 2023 |      1.2      |
 | 4. 2024 |      1.2      |
 | 5. 2025 |      1.2      |
+
+  
+Title: Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System  
+Major Goals: Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community.  
+Status of Support: Pending  
+Project Number:   
+Name of PD/PI: Beck A  
+Source of Support: AHRQ  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 11/2021 — 10/2026  
+Total Award Amount: $1,995,559  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2021 |      2.4      |
+| 2. 2022 |      2.4      |
+| 3. 2023 |      1.8      |
+| 4. 2024 |      1.5      |
+| 5. 2025 |      1.2      |
+
+  
+Title: Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations  
+Major Goals: Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identified based on individual- and community-level characteristics, co-exposures, time, and space.  
+Status of Support: Pending  
+Project Number: R01ES032812  
+Name of PD/PI: Brokamp C  
+Source of Support: NIH/NIEHS  
+Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
+Project/Proposal Start and End Date: 04/2021 — 03/2025  
+Total Award Amount: $1,129,325  
+Person Months (Calendar) per budget period:
+  
+|  Year   | Person Months |
+|:-------:|:-------------:|
+| 1. 2021 |      1.8      |
+| 2. 2022 |      3.6      |
+| 3. 2023 |      4.2      |
+| 4. 2024 |      4.2      |
 
   
 Title: Longitudinal Impact of Air Pollution on Mental Health and Neuroimaging Outcomes during Adolescence in the Cincinnati Combined Childhood Cohorts (C4)  
@@ -80,6 +171,17 @@ Person Months (Calendar) per budget period:
 | 2. 2021 |      4.1      |
 | 3. 2022 |      5.4      |
 | 4. 2023 |      5.4      |
+
+  
+Title: Decentralized and Reproducible Geomarker Assessment for Multi-Site Studies  
+Major Goals: Create a software tool to facilitate the exposure assessment of gridded spatiotemporal data based on residential addresses and date of birth without sharing or exposing protected health information.  
+Status of Support: Completed  
+Project Number: U2COD023375  
+Name of PD/PI: Benjamin D, Newby L, Smith, P  
+Source of Support: NIH/OD  
+Primary Place of Performance: Duke University, Durham  
+Project/Proposal Start and End Date: 09/2019 — 08/2021  
+Total Award Amount: $199,393  
 
   
 Title: Epigenetics, Air Pollution, and Childhood Mental Health  
@@ -139,90 +241,6 @@ Person Months (Calendar) per budget period:
 | 3. 2022 |     0.60      |
 | 4. 2023 |     0.60      |
 | 5. 2024 |     0.60      |
-
-  
-Title: Monitoring Risk of Rapid Lung Function Decline: The LAM Prediction (LAMP) Early Translation Study  
-Major Goals: Develop a predictive algorithm for predicting rapid decline in lung function among patients with LAM.  
-Status of Support: Pending  
-Project Number: TBD  
-Name of PD/PI: Szczesniak R  
-Source of Support: The LAM Foundation  
-Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 04/2022 — 03/2024  
-Total Award Amount: $282,249  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2022 |     0.36      |
-| 2. 2023 |     0.36      |
-
-  
-Title: Developing and testing a large-scale system for effective, equitable personalized care for children with Crohn's Disease and ulcerative colitis  
-Major Goals: Develop, integrate, and test a personalized care system for children with Crohn’s Disease and ulcerative colitis.  
-Status of Support: Pending  
-Project Number: TBD  
-Name of PD/PI: Dotson J  
-Source of Support: NIH/NIMHD  
-Primary Place of Performance: Nationwide Children's Hospital, Columbus  
-Project/Proposal Start and End Date: 04/2022 — 03/2024  
-Total Award Amount: $282,249  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2022 |     0.36      |
-| 2. 2023 |     0.36      |
-
-  
-Title: Achieving Pediatric Health Equity by Responding to Identified Sociomedical risks with Effective Unified Purpose – Co-design and Evaluation of the RISEUP System  
-Major Goals: Enhance and test an integrated medical-social monitoring and response system that meets the needs of our patients and community.  
-Status of Support: Pending  
-Project Number:   
-Name of PD/PI: Beck A  
-Source of Support: AHRQ  
-Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 11/2021 — 10/2026  
-Total Award Amount: $1,995,559  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2021 |      2.4      |
-| 2. 2022 |      2.4      |
-| 3. 2023 |      1.8      |
-| 4. 2024 |      1.5      |
-| 5. 2025 |      1.2      |
-
-  
-Title: Pediatric Psychiatric Emergency Department Utilization and Fine Particulate Matter: A Case-Crossover Study to Identify Susceptible Subpopulations  
-Major Goals: Determine if short-term air pollution contributes to psychiatric exacerbations in children and adolescents. Furthermore, subpopulations susceptible to short term air pollution related psychiatric health effects will be identified based on individual- and community-level characteristics, co-exposures, time, and space.  
-Status of Support: Pending  
-Project Number: R01ES032812  
-Name of PD/PI: Brokamp C  
-Source of Support: NIH/NIEHS  
-Primary Place of Performance: Cincinnati Children's Hospital Medical Center  
-Project/Proposal Start and End Date: 04/2021 — 03/2025  
-Total Award Amount: $1,129,325  
-Person Months (Calendar) per budget period:
-  
-|  Year   | Person Months |
-|:-------:|:-------------:|
-| 1. 2021 |      1.8      |
-| 2. 2022 |      3.6      |
-| 3. 2023 |      4.2      |
-| 4. 2024 |      4.2      |
-
-  
-Title: Decentralized and Reproducible Geomarker Assessment for Multi-Site Studies  
-Major Goals: Create a software tool to facilitate the exposure assessment of gridded spatiotemporal data based on residential addresses and date of birth without sharing or exposing protected health information.  
-Status of Support: Completed  
-Project Number: U2COD023375  
-Name of PD/PI: Benjamin D, Newby L, Smith, P  
-Source of Support: NIH/OD  
-Primary Place of Performance: Duke University, Durham  
-Project/Proposal Start and End Date: 09/2019 — 08/2021  
-Total Award Amount: $199,393  
 
   
 Title: Model Identifying Geographic Areas in Ohio for Blood Lead Testing  
