@@ -51,7 +51,7 @@ nancy-r01:
   source: NIH/NIOSH
   ppp: Cincinnati Children's Hospital Medical Center
   start_date: 9/1/21
-  end_date: 9/31/25
+  end_date: 9/30/25
   amount: 2544000
   effort:
     2021: 0.24
